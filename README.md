@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 to start the server please go to server directory in terminal and enter
 
         npm run start
@@ -21,3 +22,9 @@ server/dist/app.js to
 
         const getTournamentMiddleware = require('./middleware/getTournament');
         const getMatchMiddleware = require('./middleware/getMatch');
+=======
+please enter
+
+        npm run start
+to start the project
+>>>>>>> bd472a9a3be8311f4a7b54d04b63bcf0c15804c2

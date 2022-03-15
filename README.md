@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 to start the server please go to server directory in terminal and enter
 
         npm run start

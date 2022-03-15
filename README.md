@@ -4,6 +4,9 @@ to start the server please go to server directory in terminal and enter
 you can see that the server is running on localhost:4000
 then open a new terminal window and go to client directory and enter
 
+        npm install
+to install the project modules and then
+
         npm run serve
 you can see that the vue app is running on localhost:8080
 in the app go over the top button which has bundesliga as default value
